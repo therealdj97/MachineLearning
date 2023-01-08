@@ -1,0 +1,45 @@
+ML supervised learning
+Dataset
+sayooja(attribute)-Female(label)
+karthika-Female
+Karthik-Male
+Varun-Male
+Raj-Male
+Neelima-Female
+
+
+Training dataset-attributes->labels
+sayooja(attribute)-Female(label)
+karthika-Female
+Karthik-Male
+Varun-Male
+
+
+Model
+Testing data-attributes
+output-label
+x_test
+Raj
+Neelima
+y_test-
+Male
+Female
+y_predict
+Male
+Male
+
+
+Random-forest
+collection of trees
+deep-tree
+overfitting-all the variations of data in the training set
+
+labels-species
+attributes-sepal length,sepal width, petal length,petal width
+x-train->atrributes
+y-train->labels
+training data size=70%,80% of dataset
+testing data size=30%,25%
+model
+x-test
+y-test

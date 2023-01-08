@@ -1,0 +1,73 @@
+Artificial Intelligence- Simulation of human intellegance with the help of algorithms/model.
+Machine learning 
+
+Main practcal applications
+prediction
+classification
+
+
+Data
+Machine Learning Techniques
+Supervised Learning
+Dataset-Training dataset
+data-labels
+wav1- a
+wav2- b
+Testing dataset 
+wav1 - a
+correlation
+positive correlation, negative correlation
+
+Eg: Gender prediction on the basis of names
+swapnil -Male
+sayuja -Female
+ketan-male
+jerin-male
+sruthi-Female
+
+endswith vowel- Female
+endswith consonants-Male
+
+dhiraj-Male
+
+Supervised-classification and regression
+classification- labels
+regression- The machine should give a continous value
+size-small, medium, large
+toppings- chicken, veg, pork
+price-300, 200, 400
+y=mx+c
+
+Unsupervised
+Clustering, Association
+clustering - Training dataset is given
+Eg: rectangles, circles
+Association
+Training dataset
+
+Reinforcement learning
+Rewards for the movement of an agent. 
+
+Corona Prediction
+output-Yes/No
+
+Tempearture
+103
+throat pain
+absence of smell/taste
+
+Measurement Techniques
+
+
+
+
+
+
+
+
+
+
+
+
+
+
