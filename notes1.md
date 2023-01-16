@@ -72,13 +72,15 @@ and regression.
 Adaptive Boosting uses an ensemble of weak learners that is combined into a weighted sum that represents the final output of the boosted classifier.
 
 * Advantages
-* 1. Explainable & Interpretable
-* 2. Less need for tweaking parameters
-* 3. Usually outperforms Random Forest
+
+1. Explainable & Interpretable
+2. Less need for tweaking parameters
+3. Usually outperforms Random Forest
 
 * Disadvantages
-* 1. Less prone to overfitting as the input variables are not jointly optimiRed@
-* 2. ensitive to noisy data and outliers.
+
+1. Less prone to overfitting as the input variables are not jointly optimiRed@
+2. ensitive to noisy data and outliers.
 
 ### Classification
 
