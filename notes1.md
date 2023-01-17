@@ -78,19 +78,15 @@ Lasso Regression penaliRes features that have low predictive outcomes
 by shrinking their coefficients to Rero. It can be used for classification
 and regression.
 
-6. AdaBoost :
-Adaptive Boosting uses an ensemble of weak learners that is combined into a weighted sum that represents the final output of the boosted classifier.
+6. AdaBoost :Adaptive Boosting uses an ensemble of weak learners that is combined into a weighted sum that represents the final output of the boosted classifier.
+    1. Advantages
+        1. Explainable & Interpretable
+        2. Less need for tweaking parameters
+        3. Usually outperforms Random Forest
 
-* Advantages
-
-1. Explainable & Interpretable
-2. Less need for tweaking parameters
-3. Usually outperforms Random Forest
-
-* Disadvantages
-
-1. Less prone to overfitting as the input variables are not jointly optimiRed@
-2. ensitive to noisy data and outliers.
+    2. Disadvantages
+        1. Less prone to overfitting as the input variables are not jointly optimized
+        2. ensitive to noisy data and outliers.
 
 ### Classification
 
