@@ -565,3 +565,18 @@ The parameters which can affect your output
 
 1. overfitting
 2. underfitting
+
+## Anamoly detection (outlier detection)
+
+### Supervised Anamoly detection (needs training of data)
+
+1. KNN
+2. Bayesian network
+
+### Semi-supervised anomaly detection
+
+### Unsupervised Anamoly detection (Doesnt requires training data)
+
+## simple imputer
+
+![alt text](anam.webp)
