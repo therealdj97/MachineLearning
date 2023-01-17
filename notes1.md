@@ -552,7 +552,7 @@ The parameters which can affect your output
 2. Gamma
 3. Kernal
 
-### F1
+## F1
 
 **f1-score** is the weighted harmonic mean of precision and recall. The best possible **f1-score** would be 1.0 and the worst would be 0.0.  **f1-score** is the harmonic mean of precision and recall. So, **f1-score** is always lower than accuracy measures as they embed precision and recall into their computation. The weighted average of `f1-score` should be used to compare classifier models, not global accuracy.
 
@@ -564,6 +564,15 @@ The parameters which can affect your output
 2. One Hot Encoder
 
 ### Auto Encoders
+
+In detection of images  we use Auto encoders
+
+## Decoding
+
+unsupervised deep learning algorithms
+
+1. deep auto encoders
+2. stacked Auto encoders
 
 ## fitting
 
@@ -583,4 +592,13 @@ The parameters which can affect your output
 
 ![alt text](anam.webp)
 
-## simple imputer
+## Deep Learning
+
+### YOLO-v3
+
+you only look once
+
+## NMF
+
+NMF: Non-Negative Matrix Factorization
+m x n calculation in matrices
