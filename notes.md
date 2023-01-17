@@ -1,24 +1,5 @@
 # notes on ml algo
 
-## NMF
-
-## AUC ROC CURVE
-
-## k folds with cross validation
-
-### Binary classifier
-
-### F1
-
-### Multiclass classifier
-
-## Encoding
-
-1. label encoder
-2. One Hot Encoder
-
-## YOLO-v3
-
 ## Auto encoders
 
 ### Propogation
@@ -35,19 +16,21 @@
 1. KNN
 2. Bayesian network
 
+### Semi-supervised anomaly detection
+
 ### Unsupervised Anamoly detection (Doesnt requires training data)
 
 ## simple imputer
 
-## Naive bayes
+![alt text](anam.webp)
 
-1. Gaussian naive bayes
-2. naive bayes
+## YOLO-v3
 
-## fitting
+## NMF
 
-1. overfitting
-2. underfitting
+## Binary classifier
+
+## Multiclass classifier
 
 ## smoothing methods
 

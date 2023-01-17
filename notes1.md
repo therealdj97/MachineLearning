@@ -274,6 +274,11 @@
              2. Assuming that all classes share the same covariance matrix.
              3. Sensitive to outliers.
              4. Doesnt work well with small class sizes
+5. Naive bayes
+
+    1. Gaussian Naive bayes
+    2. Naive bayes
+    3. Bernoulli Naïve Bayes
 
 ## Unsupervised Learning
 
@@ -546,3 +551,17 @@ The parameters which can affect your output
 1. regularization
 2. Gamma
 3. Kernal
+
+### F1
+
+**f1-score** is the weighted harmonic mean of precision and recall. The best possible **f1-score** would be 1.0 and the worst would be 0.0.  **f1-score** is the harmonic mean of precision and recall. So, **f1-score** is always lower than accuracy measures as they embed precision and recall into their computation. The weighted average of `f1-score` should be used to compare classifier models, not global accuracy.
+
+## Encoding
+
+1. label encoder
+2. One Hot Encoder
+
+## fitting
+
+1. overfitting
+2. underfitting
