@@ -1,4 +1,4 @@
-# notes on ml algo
+# doubts on ml algo
 
 ## Auto encoders
 
@@ -8,8 +8,6 @@
 2. forward propogation
 3. Optimization Algorithm
 4. weight & bias
-
-
 
 ## YOLO-v3
 

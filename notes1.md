@@ -558,8 +558,12 @@ The parameters which can affect your output
 
 ## Encoding
 
-1. label encoder
+### Manual Encoder
+
+1. Label encoder
 2. One Hot Encoder
+
+### Auto Encoders
 
 ## fitting
 
@@ -577,6 +581,6 @@ The parameters which can affect your output
 
 ### Unsupervised Anamoly detection (Doesnt requires training data)
 
-## simple imputer
-
 ![alt text](anam.webp)
+
+## simple imputer
