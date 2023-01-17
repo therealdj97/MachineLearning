@@ -17,13 +17,13 @@
         2. Sensitive to outliers
     4. Types
         1. Information Gain / Entropy
-                1. ID3
-                2. c4.5
-                3. C5
-                4. J48
+            1. ID3
+            2. c4.5
+            3. C5
+            4. J48
         2. Gini Index
-                1. SPRINT
-                2. SLIQ
+            1. SPRINT
+            2. SLIQ
 
 2. Random Forest : An ensemble learning method that combines the output of multiple decision trees
     1. Applications
