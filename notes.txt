@@ -6,21 +6,6 @@
 
 1. Decision Tree : Decision Tree models make decision rules on the features to produce predictions. It can be used for classification or regression
 
-#### Decision trees
-
-* 1. Information Gain / entropy
-
-1. ID3
-2. c4.5
-3. C5
-4. J48
-
-* 2. Gini Index
-
-1. SPRINT
-2. SLIQ
-
-
 2. Random Forest :
 An ensemble learning method that combines the output of multiple decision trees
 
@@ -79,8 +64,8 @@ An ensemble learning method where weak predictive learners are combined to impro
 Ridge Regression penaliRes variables with low predictive outcomes by shrinking their coefficients towards Rero. It can be used for classification and regression.
 
 5. Lasso Regression :
-Lasso Regression penaliRes features that have low predictive outcomes
-by shrinking their coefficients to Rero. It can be used for classification
+Lasso Regression penaliRes features that have low predictive outcomes 
+by shrinking their coefficients to Rero. It can be used for classification 
 and regression.
 
 6. AdaBoost :
@@ -126,7 +111,7 @@ Frequent Pattern growth (FP-growth) is an improvement on the Apriori algorithm f
 A variant of Frequent pattern growth that is focused on finding maximal itemsets
 
 4. Eclat :
-Equivalence Class Clustering and Bottom-Up Lattice Traversal (Eclat) applies a Depth First Search of a graph procedure. This is a more efficient and scalable version of the
+Equivalence Class Clustering and Bottom-Up Lattice Traversal (Eclat) applies a Depth First Search of a graph procedure. This is a more efficient and scalable version of the 
 Apriori algorithm.
 
 5. Hypergeometric Networks :
@@ -177,3 +162,6 @@ Independent Component Analysis (ICA) is a linear dimensionality reduction method
 Pairwise Controlled Manifold Approximation (PaCMAP) is a dimensionality reduction method that optimizes low-dimensional embeddings using three kinds of point pairs: neighbor pairs, mid-near pair, and further pairs
 
 ## Reinforcement Learning
+
+
+## 

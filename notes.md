@@ -28,7 +28,6 @@ The goal of LDA is to project the original features onto a new feature space wit
 
 ## k folds with cross validation
 
-## KNN
 
 ## classification
 
@@ -46,7 +45,7 @@ The goal of LDA is to project the original features onto a new feature space wit
 
 ## Decision trees
 
-### Information Gain
+### Information Gain / entropy
 
 1. ID3
 2. c4.5
