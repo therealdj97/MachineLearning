@@ -5,13 +5,13 @@
 ### Tree Based
 
 1. Decision Tree : Decision Tree models make decision rules on the features to produce predictions. It can be used for classification or regression
-    1 Information Gain / Entropy
+    1. Information Gain / Entropy
         1. ID3
         2. c4.5
         3. C5
         4. J48
 
-    2 Gini Index
+    2. Gini Index
         1. SPRINT
         2. SLIQ
 
