@@ -644,11 +644,13 @@ Approach –
 ## smoothing methods
 
 used to reduce effect of Variation/Veriance on dataset
-used in forcasting techniqueqs
+used in forcasting techniques
+Data smoothing refers to a statistical approach of eliminating outliers from datasets to make the patterns more noticeable. It is achieved using algorithms to eliminate statistical noise from datasets. The use of data smoothing can help forecast patterns, such as those seen in share prices.
 
 ![alt text](data-smoothing.webp)
 
-moving_avarage_smoothing
-exponential_smoothing
-double_exponential_smoothing
-triple_exponential_smoothing
+1. moving_avarage_smoothing
+2. exponential_smoothing
+3. double_exponential_smoothing
+4. triple_exponential_smoothing
+and many more

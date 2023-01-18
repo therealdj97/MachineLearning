@@ -16,5 +16,4 @@ https://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.h
 used to reduce effect of Variation/Veriance on dataset
 used in forcasting techniqueqs
 
-1. weighted moving average
-2. forcast evaluation
+
