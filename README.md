@@ -18,11 +18,11 @@
 
 ![alt text](2.png)
 
-### Regresion
+1. Regresion
 
 ![alt](3.png)
 
-### Classification
+2. Classification
 
 ![alt](4.png)
 
