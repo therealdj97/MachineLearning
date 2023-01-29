@@ -1,6 +1,38 @@
 # ML Algorithms
 
+## AI vs ML vs DL vs DS
+
+![alt text](1.png)
+
+## types of machine learning
+
+1. Supervised machine learning
+    1. Regression
+    2. Classification
+2. unsupervised machine learning
+    1. Clustering
+    2. Dimentionality reduction
+3. Reinforcement machine learning
+
 ## Supervised Learning
+
+![alt text](2.png)
+
+### Regresion
+
+![alt](3.png)
+
+### Classification
+
+![alt](4.png)
+
+## Unsupervised
+
+1. Clustering
+![alt](5.png)
+
+2. Dimetionality Reduction
+![alt](6.png)
 
 ### Tree Based
 
