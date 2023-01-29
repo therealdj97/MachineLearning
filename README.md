@@ -21,18 +21,43 @@
 1. Regresion
 
 ![alt](3.png)
-
 2. Classification
 
 ![alt](4.png)
 
+### List of supervised algorithms (krish naik)
+
+1. Linear Regression
+2. Redge & lasso
+3. Logistic Regression
+4. Decision Tree
+5. Adaboost
+6. Random Forest
+7. Gradient Boosting
+8. XGBoost
+9. Naive Bayes
+10. SVN
+11. KNN
+
 ## Unsupervised
 
-1. Clustering
+there is no dependent variable
+
+1. Clustering :
+    it is a  grouping problem not a classifiaaction problem.
 ![alt](5.png)
 
 2. Dimetionality Reduction
 ![alt](6.png)
+
+### List of Unsupervised algorithms (krish naik)
+
+1. K means
+2. DBScan
+3. Hierarchical
+4. K nearest neighbours
+5. PCA
+6. LDA
 
 ### Tree Based
 
