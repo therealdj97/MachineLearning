@@ -55,7 +55,7 @@ there is no dependent variable
 1. K means
 2. DBScan
 3. Hierarchical
-4. K nearest neighbours
+4. K nearest neighbours clustering
 5. PCA
 6. LDA
 
