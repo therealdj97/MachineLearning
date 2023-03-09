@@ -4,7 +4,7 @@
 
 ## AI vs ML vs DL vs DS
 
-![alt text](1.png)
+![alt text](Images/1.png)
 
 ## types of machine learning
 
@@ -18,14 +18,14 @@
 
 ## Supervised Learning
 
-![alt text](2.png)
+![alt text](Images/2.png)
 
 1. Regresion
 
-![alt](3.png)
+![alt](Images/3.png)
 2. Classification
 
-![alt](4.png)
+![alt](Images/4.png)
 
 ### List of supervised algorithms (krish naik)
 
@@ -47,10 +47,10 @@ there is no dependent variable
 
 1. Clustering :
     it is a  grouping problem not a classifiaaction problem.
-![alt](5.png)
+![alt](Images/5.png)
 
 2. Dimetionality Reduction
-![alt](6.png)
+![alt](Images/6.png)
 
 ### List of Unsupervised algorithms (krish naik)
 
