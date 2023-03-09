@@ -1,5 +1,7 @@
 # ML Algorithms
 
+![alt text](Images/1_NH7d3_1tVN6G3WLJEB7Lgw.png)
+
 ## Supervised Learning
 
 ### Tree Based
@@ -487,6 +489,10 @@
 
 ## Reinforcement Learning
 
+## Distance Calculation
+
+![alt text](Images/1678271713169.jpeg)
+
 ## Ensemble Learning
 
 seeks better predictive performance by combining the predictions from multiple Macine learning  models
@@ -497,7 +503,7 @@ Boosting involves adding ensemble members sequentially that correct the predicti
 avg of the predictions
 
 1. ada boost
-2. XGBoost
+2. XGBoost (Extra Gradient Boosting)
 3. Stochastic Gradient Boosting
 
 ### Bayesian model averaging
@@ -590,7 +596,7 @@ unsupervised deep learning algorithms
 
 ### Unsupervised Anamoly detection (Doesnt requires training data)
 
-![alt text](anam.webp)
+![alt text](Images/anam.webp)
 
 ## Deep Learning
 
@@ -647,10 +653,14 @@ used to reduce effect of Variation/Veriance on dataset
 used in forcasting techniques
 Data smoothing refers to a statistical approach of eliminating outliers from datasets to make the patterns more noticeable. It is achieved using algorithms to eliminate statistical noise from datasets. The use of data smoothing can help forecast patterns, such as those seen in share prices.
 
-![alt text](data-smoothing.webp)
+![alt text](Images/data-smoothing.webp)
 
 1. moving_avarage_smoothing
 2. exponential_smoothing
 3. double_exponential_smoothing
 4. triple_exponential_smoothing
 and many more
+
+## MLOps
+
+![alt text](Images/1_uw3wIlxaVphOYyFnSNbpQA.jpeg)

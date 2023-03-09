@@ -14,6 +14,4 @@ https://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.h
 ## smoothing methods
 
 used to reduce effect of Variation/Veriance on dataset
-used in forcasting techniqueqs
-
-
+used in forcasting technique
